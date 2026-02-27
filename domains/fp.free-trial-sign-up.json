@@ -1,0 +1,18 @@
+{
+  "owner": {
+    "username": "kevinmia",
+    "email": "kqmiao3@gmail.com"
+  },
+  "record": {
+    "CNAME": "free-trial-sign-up-abuse-prevention.onrender.com"
+  },
+  "subdomains": {
+    "fp": {
+      "subdomains": {
+        "_acme-challenge": {
+          "CNAME": "fp.free-trial-sign-up.is-a.dev.d1ffb72efa5b82a9.dcv.cloudflare.com"
+        }
+      }
+    }
+  }
+}
